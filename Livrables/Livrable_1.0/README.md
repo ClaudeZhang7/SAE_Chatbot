@@ -5,6 +5,6 @@ Date de Management de l'équipe :
 - Dany : 4 au 8 décembre
 - Ugo : 11 au 15 décembre
 - Omar : 8 au 12 janvier
-- Claude : 15 au 19 décembre
+- Claude : 15 au 19 janvier
 - Ugo : 5 au 16 février
 
