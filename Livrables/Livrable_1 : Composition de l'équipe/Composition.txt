@@ -1,8 +1,8 @@
-Composition du groupe de travail : 
+Le groupe est composé de : 
 
 - Vithia Lile
 - Omar Elnady
 - Dany Abdul-Malak
 - Jonathan Loquemanique
-- CLaude Zhang
+- Claude Zhang
 - Ugo Durand
